@@ -1,0 +1,29 @@
+==Section headings==
+
+''Headings'' organize your writing
+into sections. The wiki software
+can automatically generate a
+[[Help:Section|table of contents]]
+from them. Start with 2 'equals'
+("==") characters.
+
+===Subsection===
+
+Using more 'equals' characters
+creates a subsection.
+
+====A smaller subsection====
+
+Don't skip levels, like from two
+("==") to four ("====") 'equals'
+characters.
+
+;A defined term: A semicolon at the
+start of a line is a way of making
+a definition where the word being
+defined appears in bold.
+The definition itself follows the
+colon and is not rendered bold by
+default. It is not a heading and 
+does not appear in the table of
+contents.''
